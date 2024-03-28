@@ -1,1 +1,2 @@
-# .github
+- Liu JiaKang @ Hangzhou Dianzi University
+- Master Student in Computer Science and Technology
